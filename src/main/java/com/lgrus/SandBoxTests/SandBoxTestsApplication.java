@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SandBoxTestsApplication {
 
 	public static void main(String[] args) {
+		//Test git comment
 		SpringApplication.run(SandBoxTestsApplication.class, args);
 	}
 
